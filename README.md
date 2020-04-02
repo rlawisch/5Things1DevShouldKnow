@@ -1,7 +1,5 @@
 # Motivation
-To increase the knowledge of juniors developers so they can find themselves in a better position and to list the most frequently commented topics between juniors developers.
-
-To set up a starting point to people which are looking to increase the knowledge on the development world.
+To increase the knowledge of juniors developers so they can find themselves in a better position and to list the most frequently commented topics between juniors developers & to set up a starting point to people which are looking to increase the knowledge on the development world.
 
 # FAQ
 * Do you want to know more about DRY / Object Oriented-Programming / Refactor, etc? 
@@ -11,16 +9,18 @@ To set up a starting point to people which are looking to increase the knowledge
   * If you are a person which is tired to feel that you do not know where to look for the things, yes.
 
 * There is a typo, can I fix it?
-  * It is awesome to get your contribution, if you want add a *new comment*, *fix*, *new content* or etc... simply opens a [PR](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
+  * It is awesome to get your contribution, if you want add a *new comment*, *fix*, *new content* or etc... simply open a [PR](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
 
 * What it accomplishes? 
   * It has knowledge for developers and interested on that that want to have a base knowledge on the fundamentals topics mostly commented in the dev-world.
 
 # Also Based On
-[Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap#introduction)
+- [Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap#introduction)
+
+![image](https://user-images.githubusercontent.com/8363610/65287242-d02fc380-db18-11e9-9c04-eff2936c0fa2.png)
 
 # Structure
-All the knowledge contained in here, is disposed on these main topics: 
+All the knowledge contained in here is disposed on these main topics: 
 
 ### 🖧 [Data Structures](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#-summary)
   - [General Concepts](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#what-is-abstract-data-types)
